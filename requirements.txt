@@ -1,0 +1,6 @@
+torch==2.5.1+cu121        # Adjust based on CUDA version
+torchvision==0.20.1+cu121
+transformers==4.40.1
+pandas==2.2.3
+datasets==3.1.0
+matplotlib==3.9.2
