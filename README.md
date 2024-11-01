@@ -9,13 +9,10 @@ pip install -r requirements.txt
 
 ### Benchmarks
 
+Benchmarks are loaded from Huggingface datasets.
+
 #### [POPE](https://github.com/RUCAIBox/POPE)
-
-From the setup instructions in the POPE repository:
-
-
 #### [HallucinationBench](https://github.com/tianyi-lab/HallusionBench)
-
 
 
 ### Directory structure
