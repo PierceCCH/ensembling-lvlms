@@ -11,4 +11,6 @@ fairscale==0.4.4
 pycocoevalcap
 Pillow
 scipy
+einops
+sentencepiece
 clip @ git+https://github.com/openai/CLIP.git
