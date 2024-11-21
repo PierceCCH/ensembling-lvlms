@@ -26,9 +26,10 @@ SOFTWARE.
 """
 
 import json
+import random
 
 # TODO: Replace with path to model response and label files
-ans_file = 'model_responses.json'
+ans_file = './../../results/internvl_base_pope_responses.json'
 label_file = './coco/coco_pope_adversarial.json'
 
 answers = [json.loads(q) for q in open(ans_file, 'r')]
@@ -66,7 +67,7 @@ neg = 0
 yes_ratio = pred_list.count(1) / len(pred_list)
 
 TP, TN, FP, FN = 0, 0, 0, 0
-for pred, label in zip(pred_list, label_list):
+for pred, label in zip(pred_list, label_list): # TODO: edit here
     if pred == pos and label == pos:
         TP += 1
     elif pred == pos and label == neg:
