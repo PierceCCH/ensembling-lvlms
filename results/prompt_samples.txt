@@ -1,0 +1,73 @@
+Question: Is there a backpack in the image?
+Image Source: COCO_val2014_000000222118 [https://huggingface.co/datasets/lmms-lab/POPE/viewer/default/test?p=86&image-viewer=7E902FBEDE27E433E10FAC24DCA832CB73F6FE4E]
+Tags: bag | wall | smartphone | phone | shoulder bag | stool | talk | woman
+
+Generated prompt: The image shows a woman holding a smartphone in her hand while talking on the phone. She is sitting on a stool with the wall behind her, and there is a visible bag beside her shoulder, suggesting she may have been resting it there temporarily.
+
+----------------------------------------------------------------------------------------------------
+
+Question: Is there a snowboard in the image?
+Image Source: COCO_val2014_000000406403 [https://huggingface.co/datasets/lmms-lab/POPE/viewer/default/test?p=4&image-viewer=C4BB1796DCD34117CC722DADF74138A93FF72522]
+Tags: blanket | hill | person | man | mountain | mountain range | ski slope | ride | ski | skier | sky | slope | snow | snowy | stand | valley
+
+Generated prompt: The image portrays a scenic mountainous landscape characterized by a snow-covered hill and an expansive sky. A skilled skier gracefully traverses the slope below, riding along it on a snowboard. The surrounding terrain includes a range of mountains with varied elevations, contributing to the breathtaking nature of the scene. There are several other individuals also exploring the area, possibly part of a larger group enjoying the winter activities. The overall environment presents a picturesque winter wonderland, with the white blanket of snow enhancing the beauty of the natural surroundings.
+
+----------------------------------------------------------------------------------------------------
+
+Question: Is there a backpack in the image?
+Image Source: COCO_val2014_000000222118
+Tags: bag | wall | smartphone | phone | shoulder bag | stool | talk | woman
+
+Generated prompt: This image contains the following elements and their attributes:
+
+1. Bag: The image shows a shoulder bag, worn close to the wearer's shoulder, giving a clear view of its design and shape.
+
+2. Wall: The background features a wall, visible from the angle of the photograph, and it provides context to the scene.
+
+3. Smartphone, Phone: The woman in the image is wearing a smartphone (likely a smart wristband or a smartwatch), and she appears to be talking on a standard-sized phone held in her hand. Both items are connected through the earpiece for hands-free communication.
+
+4. Shoulder: The shoulder bag is draped
+
+----------------------------------------------------------------------------------------------------
+
+Question: Is there a snowboard in the image?
+Image Source: COCO_val2014_000000406403
+Tags: blanket | hill | person | man | mountain | mountain range | ski slope | ride | ski | skier | sky | slope | snow | snowy | stand | valley
+
+Generated prompt: I see a snowy mountain with a skier standing on the slope. There's a blanket of snow covering the mountain, and the skier is riding down the slope using ski poles. In the background, there's a range of mountains, and the sky is clear and blue.
+
+----------------------------------------------------------------------------------------------------
+
+Question: Is there a baseball glove in the image?
+Image Source: COCO_val2014_000000131115
+Tags: ball | baseball player | baseball | baseball bat | baseball game | baseball glove | bat | batter | catch | catcher | game | home base | man | pitch | pitcher | play | referee | stand | swing | swinge
+
+Generated prompt: base, batter, glove, catch, pitcher, game
+
+----------------------------------------------------------------------------------------------------
+
+Question: Is there a sandwich in the image?
+Image Source: COCO_val2014_000000011241
+Tags: appetizer | bottle | bread | buffet | bureau | condiment | counter top | table | plate | drink | fill | food | kitchen counter | pastry | peak | platter | shelf | tray
+
+Generated prompt: The image shows a food buffet with a variety of appetizers, bread, condiments, and various dishes on display. I see a counter, table, plate, and shelf in the background with different food items neatly arranged on the shelves and the buffet table. There is also a plate of platter with appetizers, and a shelf with several pastry items. 
+
+Attributes:
+1. appetizer
+2. bread
+3. buffet
+4. condiment
+5. food
+6. counter
+7. table
+
+----------------------------------------------------------------------------------------------------
+
+Question: Is there a toilet in the image?
+Image Source: COCO_val2014_000000189694
+Tags: appliance | blender | cabinet | coffee machine | counter top | dish washer | drawer | food | home appliance | kitchen | kitchen counter | kitchen sink | microwave | oven | sink | stand | toaster | white | woman
+
+Generated prompt: This is a kitchen with various appliances: a blender, a stand mixer, a microwave, and an oven. The counter is covered with food items such as coffee, dishes, and a sink. We also see a cabinet and drawer with more appliances and objects. Women are visible in the kitchen.
+
+----------------------------------------------------------------------------------------------------
+
