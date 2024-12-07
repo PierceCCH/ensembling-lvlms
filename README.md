@@ -35,3 +35,6 @@ The notebook `/evaluations/prompt_enhancement_pipeline.ipynb` contains the code 
 
 The notebook `/results/results_analysis.ipynb` contains the code for evaluating the generated responses. The notebook will output the accurary, precision, recall and F1 score for the base model, the model with prompts enhanced with image tags, and the model with prompts enhanced with image tags and double prompting. The notebook also generates a confusion matrix for each model.
 
+### Analysis of RAM tags
+
+The notebook `/evaluations/ram_analysis.ipynb` analyzes the extent of how RAM tags affect the InternVL model. The notebook shows results on how the number of tags and incorrect tags affect the model.
